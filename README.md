@@ -1,1 +1,1 @@
-This is the repo for all of my code projects.
+This is the repo for chemical engineering code.
