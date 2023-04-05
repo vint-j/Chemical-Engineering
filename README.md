@@ -1,1 +1,3 @@
-This is the repo for chemical engineering code.
+**Chemical Engineering Code**
+
+Contains code for chemical engineering.
