@@ -1,3 +1,3 @@
-**Chemical Engineering Code**
+*Chemical Engineering Code*
 
 Contains code for chemical engineering.
