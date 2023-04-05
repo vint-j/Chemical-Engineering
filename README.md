@@ -1,3 +1,3 @@
-# **Chemical Engineering Code**
+# **Chemical Engineering**
 
-## *Contains code for chemical engineering.*
+## *Contains code and tutorials for chemical engineering.*
